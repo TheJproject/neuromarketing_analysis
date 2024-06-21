@@ -1,0 +1,6 @@
+fastapi
+pydantic
+openai
+streamlit
+requests
+instructor
